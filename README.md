@@ -1,4 +1,5 @@
 <h1 align="center">A passionate Full Stack developer</h1>
+![animated-line-image-0533](https://github.com/user-attachments/assets/c9440935-8385-46d0-ac09-ab8f6702c0bb)
 <br>
 <h2>⌘ About Me:</h2>
  🎓 Final-year B.Tech Computer Engineering student <br> 🛠️ Exploring Full Stack Web development and Data structures and algorithms<br> 🎯 Goal: Build products, win hackathons, and grow better everyday<br> 💪🏼 Competitive, ambitious, and turning pressure into progress. 
