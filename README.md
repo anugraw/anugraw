@@ -1,16 +1,22 @@
  <h3 align="center">A passionate Full Stack developer</h3>
 <a href="https://www.animatedimages.org/cat-lines-562.htm">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" 
-       alt="animated-line-image-0313" 
-       width="100%" 
-       height="15" />
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0311.gif" border="0" alt="animated-line-image-0311" width="100%" 
+       height="5"/>
 </a>
 
 
 
 <br>
+
 <h2>⌘ About Me:</h2>
- 🎓 Final-year B.Tech Computer Engineering student <br> 🛠️ Exploring Full Stack Web development and Data structures and algorithms<br> 🎯 Goal: Build products, win hackathons, and grow better everyday<br> 💪🏼 Competitive, ambitious, and turning pressure into progress. 
+ <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdudHU5M3JxZG1xZzk1dHNtYjhmZTZmOWlxZDMxOWdocnR6M2V2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" align = "right" width = "150">
+ 🎓 Final-year B.Tech Computer Engineering student <br> 
+ 🛠️ Exploring Full Stack Web development and Data structures and algorithms<br>
+ 🎯 Goal: Build products, win hackathons, and grow better everyday<br> 
+ 💪🏼 Competitive, ambitious, and turning pressure into progress.
+ 
+
+
 
 
 ## 🔗 Socials:
@@ -27,9 +33,8 @@
   </a>
 </p>
 <a href="https://www.animatedimages.org/cat-lines-562.htm">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" 
-       alt="animated-line-image-0313" 
-       width="100%" 
-       height="15" />
+  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0152.gif" border="0" alt="animated-line-image-0152" width="100%" 
+       height="5"  />
 </a>
 
