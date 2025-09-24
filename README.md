@@ -13,9 +13,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anugraw&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=anugraw&theme=dark&hide_border=true)</br>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
-[![](https://visitcount.itsvg.in/api?id=anugraw&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <a href="https://example.com">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Quote"/>
+  </a>
+</p>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" border="0" alt="animated-line-image-0313" /></a><a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" border="0" alt="animated-line-image-0313" /></a>
