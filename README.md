@@ -5,7 +5,7 @@
  🎓 Final-year B.Tech Computer Engineering student <br> 🛠️ Exploring Full Stack Web development and Data structures and algorithms<br> 🎯 Goal: Build products, win hackathons, and grow better everyday<br> 💪🏼 Competitive, ambitious, and turning pressure into progress. 
 
 
-## 🌐 Socials:
+## 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/anugrah-shibu-5a415a256/)]) 
 
 # 💻 Tech Stack:
