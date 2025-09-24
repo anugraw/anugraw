@@ -33,9 +33,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=anugraw&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false) <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWwzeG95d2Y4MXVuMWk0Y2Z3dnRpdWM4YTVrem4wemU3b2Nrd3JqdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" alt="GIF Image" width="150">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=anugraw&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWwzeG95d2Y4MXVuMWk0Y2Z3dnRpdWM4YTVrem4wemU3b2Nrd3JqdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" alt="GIF Image" width="150" align = "right">
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=anugraw&theme=chartreuse-dark&hide_border=true)</br>
 
