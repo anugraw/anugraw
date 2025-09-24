@@ -22,11 +22,6 @@
 ## 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/anugrah-shibu-5a415a256/)]) 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZyN21vMmw0eW81b24wMWIzYWJkYXR4c3U3MTh2cjJnNGYxaDN6OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PTBVMsYIOB0SBP4MVe/giphy.gif" 
-     alt="animated-line-image" 
-     width="150" />
-
-
 ## 💻 Tech Stack:
 <img src="https://github.com/user-attachments/assets/9b3208b2-4ad4-4535-89a2-3a286a3691be"
      alt="duck" 
