@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 <h2>⌘ About Me:</h2>
-- 🎓 Final-year B.Tech Computer Engineering student <br>- 🛠️ Exploring Full Stack Web development and Data structures and algorithms<br>- 🎯 Goal: Build products, win hackathons, and grow better everyday<br>- 💪 Competitive, ambitious, and turning pressure into progress. 
+ 🎓 Final-year B.Tech Computer Engineering student <br> 🛠️ Exploring Full Stack Web development and Data structures and algorithms<br> 🎯 Goal: Build products, win hackathons, and grow better everyday<br> 💪🏼 Competitive, ambitious, and turning pressure into progress. 
 
 
 ## 🌐 Socials:
