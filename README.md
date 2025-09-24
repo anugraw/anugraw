@@ -1,4 +1,10 @@
 <h1 align="center">A passionate Full Stack developer</h1>
+<a href="https://www.animatedimages.org/cat-lines-562.htm">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" 
+       alt="animated-line-image-0313" 
+       width="100%"/>
+</a>
+
 
 <br>
 <h2>⌘ About Me:</h2>
@@ -18,4 +24,9 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Quote"/>
   </a>
 </p>
+<a href="https://www.animatedimages.org/cat-lines-562.htm">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" 
+       alt="animated-line-image-0313" 
+       width="100%" />
+</a>
 
