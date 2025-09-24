@@ -9,7 +9,9 @@
 <br>
 
 <h2>⌘ About Me:</h2>
- <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdudHU5M3JxZG1xZzk1dHNtYjhmZTZmOWlxZDMxOWdocnR6M2V2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" align = "right" width = "130">
+ <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdudHU5M3JxZG1xZzk1dHNtYjhmZTZmOWlxZDMxOWdocnR6M2V2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" align = "right" width = "150">
+
+ 
  🎓 Final-year B.Tech Computer Engineering student <br> 
  🛠️ Exploring Full Stack Web development and Data structures and algorithms<br>
  🎯 Goal: Build products, win hackathons, and grow better everyday<br> 
