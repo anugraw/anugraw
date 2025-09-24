@@ -2,8 +2,10 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" 
        alt="animated-line-image-0313" 
-       width="100%"/>
+       width="100%" 
+       height="15" />
 </a>
+
 
 
 <br>
@@ -27,6 +29,7 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" 
        alt="animated-line-image-0313" 
-       width="100%" />
+       width="100%" 
+       height="15" />
 </a>
 
