@@ -1,5 +1,5 @@
 <h1 align="center">A passionate Full Stack developer</h1>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0171.gif" border="0" alt="animated-line-image-0171" /></a><a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" border="0" alt="animated-line-image-0313" /></a></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" border="0" alt="animated-line-image-0313" /></a><a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0313.gif" border="0" alt="animated-line-image-0313" /></a></a>
 <br>
 <h2>⌘ About Me:</h2>
  🎓 Final-year B.Tech Computer Engineering student <br> 🛠️ Exploring Full Stack Web development and Data structures and algorithms<br> 🎯 Goal: Build products, win hackathons, and grow better everyday<br> 💪🏼 Competitive, ambitious, and turning pressure into progress. 
